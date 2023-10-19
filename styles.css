@@ -9,6 +9,7 @@ a {
 body {
     background-color: #2987ca;
     margin: 0;
+    font-family: serif;
 
 }
 
@@ -17,6 +18,10 @@ body {
     flex-direction: column;
 
 
+}
+
+#title1 {
+    font-size: 60px;
 }
 
 .header{
@@ -93,6 +98,7 @@ button {
 
 .section3 .quote {
     font-weight: 800;
+
 }
 
 .section4 {
